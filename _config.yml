@@ -1,41 +1,29 @@
-# Site settings
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: portfolio.joeypoon.com
 title: Joey F. Poon
 email: joey@joeypoon.com
-url: portfolio.joeypoon.com
-description: "Joey's Portfolio"
+author: Joey F. Poon
+description: > # "Joey's portfolio site"
 
-# Contact form: comment the line below if you want to stick with the default PHP contact form
-contact: static
-
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 18bc9c #80B3FF
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
-
-# Footer settings
-footer:
-  copyright: Joey F. Poon
-  # location: Location
-  social: Around the Web
-  # credits: Credits
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/joeyfpoon
-  - title: linkedin
-    url: http://linkedin.com/in/joeypoon
-  - title: github
-    url: http://github.com/joeypoon
-
-# Postal address (add as many lines as necessary)
-# address:
-#   - line: Houston, Texas
-
-# Credits content
-# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/joeyfpoon
+  - title: github
+    url: https://github.com/joeypoon
+  - title: linkedin
+    url: https://linkedin.com/in/joeypoon
