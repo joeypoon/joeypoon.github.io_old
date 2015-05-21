@@ -1,15 +1,15 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Houston.Vote
+subtitle:
 layout: default
-modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+modal-id: 2
+date: 2015-05-17
+img: houston_vote.png
+thumbnail: houston_vote.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: May 2015
+client: 3rd Annual Houston Hackathon
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Responsive website created during the 3rd annual Houston Hackathon to help increase voter turnout by educating and creating user engagement through social functions. Allows users to upload photos and share them easily on Facebook and Twitter.
 
 ---

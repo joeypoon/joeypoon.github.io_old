@@ -1,15 +1,15 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: SAP Calculator
+subtitle: Ruby on Rails
 layout: default
-modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+modal-id: 1
+date: 2015-05-21
+img: sap_calculator.png
+thumbnail: sap_calculator.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: May 2015
+client: UHD Office of Scholarships and Financial Aid
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Web application built with Ruby on Rails. Calculates the minimum number of credits a student needs to reach financial aid compliance.
 
 ---
