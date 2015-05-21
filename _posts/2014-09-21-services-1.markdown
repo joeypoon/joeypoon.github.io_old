@@ -1,6 +1,6 @@
 ---
 title: SAP Calculator
-subtitle: Ruby on Rails
+subtitle:
 layout: default
 modal-id: 1
 date: 2015-05-21
