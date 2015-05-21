@@ -31,7 +31,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(https://download.unsplash.com/photo-1431910078401-c3f7e61b1d5c) no-repeat center center;
+    background: url("./img/intro-bg.jpg") no-repeat center center;
     background-size: cover;
 }
 
@@ -112,7 +112,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(https://download.unsplash.com/photo-1430278896981-33ba4119856e) no-repeat center center;
+    background: url("./img/banner-bg.jpg") no-repeat center center;
     background-size: cover;
 }
 
@@ -176,7 +176,7 @@ p.copyright {
 #profile_picture {
   width: 10em;
   height: 10em;
-  background-image: url("http://joeypoon.com/wp-content/uploads/2015/02/FullSizeRender-1.jpg");
+  background-image: url("./img/profile_picture");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 0%;
