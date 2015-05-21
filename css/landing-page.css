@@ -180,3 +180,7 @@ p.copyright {
   float:left;
   margin-right: 1em;
 }​
+
+#about_text {
+  float: right;
+}
