@@ -170,7 +170,7 @@ p.copyright {
 }
 
 .margin_left {
-  margin-left: 4em;
+  margin-left: 2em;
 }
 
 #profile_picture {
@@ -182,7 +182,7 @@ p.copyright {
   background-position: 50% 0%;
   border-radius:100px;
   margin: 0 auto;
-  margin-top: 5em;
+  margin-top: 4em;
   /*float:left;*/
   /*margin-right: 1em;*/
 }​
